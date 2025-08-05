@@ -1,0 +1,1 @@
+C:\Users\sarah\OneDrive\שולחן\ העבודה\RUST\ PROGRAMING\Bereshita1\structP\target\debug\structP.exe: C:\Users\sarah\OneDrive\שולחן\ העבודה\RUST\ PROGRAMING\Bereshita1\structP\src\Rectangle.rs C:\Users\sarah\OneDrive\שולחן\ העבודה\RUST\ PROGRAMING\Bereshita1\structP\src\main.rs
